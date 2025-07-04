@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Freshfold/static/css/main.d219aa97.css",
+    "main.css": "/Freshfold/static/css/main.3b199902.css",
     "main.js": "/Freshfold/static/js/main.9ea9b9b2.js",
     "index.html": "/Freshfold/index.html",
-    "main.d219aa97.css.map": "/Freshfold/static/css/main.d219aa97.css.map",
+    "main.3b199902.css.map": "/Freshfold/static/css/main.3b199902.css.map",
     "main.9ea9b9b2.js.map": "/Freshfold/static/js/main.9ea9b9b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d219aa97.css",
+    "static/css/main.3b199902.css",
     "static/js/main.9ea9b9b2.js"
   ]
 }
